@@ -1,5 +1,4 @@
-
-Name: Dmitry Shpitko;
+#Name: Dmitry Shpitko;
 Contact: Discord rs-school DVDmka;
 Personal information: Education of a cook, ex-cook, I want to become a good programmer;
 Skills: not;
