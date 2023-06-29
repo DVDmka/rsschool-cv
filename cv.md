@@ -1,7 +1,4 @@
-.colorful-text {
-  background: yellow;
-  color: blue;
-}
+<span style="color: red;">Цветный текст</span>
 #Name: Dmitry Shpitko;
 Contact: Discord rs-school DVDmka;
 Personal information: Education of a cook, ex-cook, I want to become a good programmer;
