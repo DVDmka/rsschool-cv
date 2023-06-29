@@ -1,6 +1,7 @@
 <style>
   .colorful-line {
     color: blue;
+    font-size: 36px;
   }
 </style>
 <span class="colorful-line">Name: Dmitry Shpitko;</span><br>
