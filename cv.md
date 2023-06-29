@@ -4,11 +4,11 @@
   }
 </style>
 <span class="colorful-line">Name: Dmitry Shpitko;</span><br>
-Contact: Discord rs-school DVDmka;
-Personal information: Education of a cook, ex-cook, I want to become a good programmer;
-Skills: not;
-Code examples: not;
-Experience: not;
-Education:  education of a cook;
+<div>Contact: Discord rs-school DVDmka;</div>
+<div>Personal information: Education of a cook, ex-cook, I want to become a good programmer;</div>
+<div>Skills: not;</div>
+<div>Code examples: not;</div>
+Experience: not;<br>
+Education:  education of a cook;<br>
 English language: basic user;
 
