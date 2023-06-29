@@ -1,5 +1,9 @@
-<span style="color: red, display: block;">
-Name: Dmitry Shpitko;</span>
+<style>
+  .colorful-line {
+    color: blue;
+  }
+</style>
+<span class="colorful-line">Name: Dmitry Shpitko;</span><br>
 Contact: Discord rs-school DVDmka;
 Personal information: Education of a cook, ex-cook, I want to become a good programmer;
 Skills: not;
